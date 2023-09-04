@@ -1,0 +1,15 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    color: saddlebrown;
+}
+
+.friend {
+    background-color: rgba(139, 69, 18, .3);
+}
+
+.friend div {
+    text-transform: capitalize;
+}
